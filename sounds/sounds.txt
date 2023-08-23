@@ -1,1 +1,1 @@
-
+This folder contains the sounds assets that arre necessary to play the game.
